@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "926333525444",
+    "firebase_url": "https://travel-fa298.firebaseio.com",
+    "project_id": "travel-fa298",
+    "storage_bucket": "travel-fa298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926333525444:android:8028878bde0e50ff",
+        "android_client_info": {
+          "package_name": "com.example.ozlem.travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926333525444-lsbdhq2f4fmmb6k2i189cv1ife4mkft8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ozlem.travel",
+            "certificate_hash": "b4d9047e21a7206cbefca468ff913a1a9d620ad5"
+          }
+        },
+        {
+          "client_id": "926333525444-p75un3dps9lf4pp82kmdhgb4ld7k1rjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVhse6lxUXN4bzYZBxezJJhpiBHHi-7CI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926333525444-p75un3dps9lf4pp82kmdhgb4ld7k1rjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
